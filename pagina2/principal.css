@@ -1,0 +1,289 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: #360457;
+    background-size:cover;
+    color:#100b12;
+}
+.portada-fondo{
+    background: black;
+    width: 1325px;
+    height: 350px;
+    padding: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.portada-frontal{
+    background-image: url("https://fondosmil.com/fondo/21126.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1124px;
+    height: 390px;
+    margin-top: -390px;
+    margin-left: 110px;
+}
+
+.titulo{
+    background: none;
+    background-size: cover;
+    font-size: 70px;
+    width: 390px;
+    height: 80px;
+    padding: 20px;
+    margin-top: -390px;
+    margin-left: 540px;
+    color:white;
+    font-family: calibri;
+
+}
+
+.sesion{
+    background: url("https://static.vecteezy.com/system/resources/thumbnails/005/489/284/small/beautiful-purple-color-gradient-background-free-vector.jpg");
+    background-size: cover;
+    font-size: 20px;
+    width: 130px;
+    height: 10px;
+    padding: 20px;
+    margin-top: -110px;
+    margin-bottom: 0px;
+    margin-left: 1050px;
+    margin-right: 0px;
+    border-radius: 8px;
+    font-family: calibri;
+}
+
+.sesion a{
+    color: white;
+    text-decoration: none;
+    margin-left: 4px;
+}
+
+.registrar{
+    background: url("https://static.vecteezy.com/system/resources/thumbnails/005/489/284/small/beautiful-purple-color-gradient-background-free-vector.jpg");
+    background-size: cover;
+    width: 130px;
+    height: 10px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-left: 1050px;
+    margin-right: 0px;
+    border-radius: 8px;
+    font-family: calibri;
+    font-size: 20px;
+}
+
+.registrar a{
+    color: white;
+    text-decoration: none;
+    margin-left: 12px;
+}
+
+.carta{
+    font-size: 53px;
+    font-family: calibri;
+    background: url("https://static.vecteezy.com/system/resources/thumbnails/005/489/284/small/beautiful-purple-color-gradient-background-free-vector.jpg");
+    background-size: cover;
+    width: 1330px;
+    height: 40px;
+    padding: 20px;
+    margin-top: 270px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    color: white;
+    text-align: center;
+}
+
+.pelicula-1{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: 15px;
+    margin-bottom: 0px;
+    margin-left: 110px;
+    margin-right: 0px;
+    text-align: center;
+}
+
+.pelicula-2{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 340px;
+    margin-right: 0px;
+    text-align: center;
+}
+
+.pelicula-3{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 570px;
+    margin-right: 0px;
+    text-align: center;
+}
+
+.pelicula-4{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 800px;
+    margin-right: 0px;
+    text-align: center;
+}
+
+.pelicula-5{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 1030px;
+    margin-right: 0px;
+    text-align: center;
+}
+
+.pelicula-6{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: 45px;
+    margin-bottom: 0px;
+    margin-left: 110px;
+    margin-right: 0px;
+    text-align: center;
+}
+
+.pelicula-7{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 340px;
+    margin-right: 0px;
+    text-align: center;
+}
+
+.pelicula-8{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 570px;
+    margin-right: 0px;
+    text-align: center;
+}
+
+.pelicula-9{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 800px;
+    margin-right: 0px;
+    text-align: center;
+}
+
+.pelicula-10{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 1030px;
+    margin-right: 0px;
+    text-align: center;
+}
+
+.pelicula-11{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: 45px;
+    margin-bottom: 0px;
+    margin-left: 110px;
+    margin-right: 0px;
+    text-align: center;
+}
+
+.pelicula-12{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 340px;
+    margin-right: 0px;
+    text-align: center;
+}
+
+.pelicula-13{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 570px;
+    margin-right: 0px;
+    text-align: center;
+}
+
+.pelicula-14{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 800px;
+    margin-right: 0px;
+    text-align: center;
+}
+
+.pelicula-15{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 1030px;
+    margin-right: 0px;
+    text-align: center;
+}
+
+a{
+    color: white;
+}
+
+
+
